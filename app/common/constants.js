@@ -1,0 +1,14 @@
+
+const AUTH_TOKEN_NAME = 'udemy_code_challenge_token';
+
+const STATUS_LOADING = 'STATUS_LOADING';
+const STATUS_DONE = 'STATUS_DONE';
+const STATUS_ERROR = 'STATUS_ERROR';
+
+export {
+  AUTH_TOKEN_NAME,
+
+  STATUS_LOADING,
+  STATUS_DONE,
+  STATUS_ERROR,
+};
