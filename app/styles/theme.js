@@ -1,4 +1,4 @@
-const primaryColor = '#17aa1c';
+const primaryColor = '#837fce';
 const dangerColor = '#d9534f';
 const darkTextColor = '#333333';
 const lightGrayBg = '#fafafa';
